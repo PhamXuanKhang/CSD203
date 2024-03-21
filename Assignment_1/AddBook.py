@@ -1,3 +1,4 @@
+from Node import Node
 def add_book(library):
     bid = input("Enter book id: ")
     title = input("Enter book title: ")
